@@ -1,6 +1,0 @@
-Package                  Current   Wanted   Latest  Location                              Depended by
-@wordpress/create-block   4.39.0   4.39.0   4.54.0  node_modules/@wordpress/create-block  wp-scaffold
-husky                      8.0.3    8.0.3    9.1.6  node_modules/husky                    wp-scaffold
-lint-staged               15.2.7  15.2.10  15.2.10  node_modules/lint-staged              wp-scaffold
-modern-normalize           2.0.0    2.0.0    3.0.1  node_modules/modern-normalize         10up-theme@npm:tenup-theme@1.0.0
-prettier                   3.2.5    3.2.5    3.3.3  node_modules/prettier                 wp-scaffol
